@@ -1,0 +1,23 @@
+{
+  "short_name": "CommandCenter",
+  "name": "SDR Command Center PWA",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#090d16",
+  "theme_color": "#070b12",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SDR Command Center PWA",
+  "description": "A high-performance command center for Sales Development Representatives featuring AI-powered cold email personalization, real-time objection handling, script playback, and pipelines tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
